@@ -1,0 +1,35 @@
+body {
+    background: #eef3f8;
+}
+
+.glass-card {
+    background: rgba(255, 255, 255, 0.75);
+    border-radius: 15px;
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255,255,255,0.5);
+}
+
+.toggle-group .toggle-btn {
+    background: white;
+    border: 1px solid #bcd0e6;
+    color: #4a76a8;
+    font-weight: 500;
+}
+
+.toggle-group .toggle-btn.active {
+    background: #4a90e2;
+    color: white;
+    border-color: #4a90e2;
+}
+
+.result-box {
+    background: white;
+    border: 2px solid #dce7f5;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.table {
+    font-size: 0.85rem;
+    background: #fff;
+}
