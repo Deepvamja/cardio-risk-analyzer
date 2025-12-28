@@ -98,10 +98,10 @@ Risk Prediction Output
 
 🛠️ Tech Stack
 
-Machine Learning: Logistic Regression (from scratch)
-Programming: Python
-Data Processing: NumPy, Pandas
-Web Application: Flask
+Machine Learning: Logistic Regression,
+Programming: Python,
+Data Processing: NumPy, Pandas,
+Web Application: Flask,
 Visualization: Matplotlib
 
 live link : https://cardio-risk-analyzer-0zlf.onrender.com/
